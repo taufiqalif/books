@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="js/script.js"></script>
+  <style>
+    /* CSS untuk tampilan tabel */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    
+    table th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <!-- kotak pencarian -->
+  <main>
+    <!-- menampilkan hasil pencarian -->
+    <div id="searchResults"></div>
+    <!-- akhir menampilkan hasil pencarian -->
+    <div class="search">
+      <input type="text" id="searchInput" placeholder="Cari...">
+      <label for="searchByTitle">Cari berdasarkan judul</label>
+      <input type="checkbox" id="searchByTitle">
+      <button onclick="search()">Cari</button>
+    </div>    
+  </main>
+  <!-- akhir kotak pencarian -->
+
+  <!-- menampilkan data yang berhasil di cari user -->
+  <table id="bookTable">
+    <tr>
+      <th>No</th>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Year</th>
+      <th>Page</th>
+    </tr>
+  </table>
+  <!-- akhir menampilkan data yang berhasil di cari user  -->
+</body>
+</html>

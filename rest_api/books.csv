@@ -1,0 +1,1001 @@
+id, title, author, year, page
+1, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+2, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 (edisi paperback 2004)
+3, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 (edisi pertama, hardback)
+4, 1984, George Orwell, 8 Juni 1949, 328 halaman
+5, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+6, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+7, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+8, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+9, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+10, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+11, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+12, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+13, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+14, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+15, The Alchemist, Paulo Coelho, 1988, 208 halaman
+16, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+17, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+18, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+19, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+20, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+21, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+22, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+23, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+24, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+25, The Count of Monte Cristo, Alexandre Dumas, 28 Agustus 1844, 1276 halaman
+26, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+27, Catch-22, Joseph Heller, 10 November 1961, 453 halaman
+28, The Grapes of Wrath, John Steinbeck, 14 April 1939, 464 halaman
+29, Lord of the Flies, William Golding, 17 September 1954, 224 halaman
+30, 2001: A Space Odyssey, Arthur C. Clarke, 2 Maret 1968, 224 halaman
+31, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+32, A Game of Thrones, George R.R. Martin, 6 Agustus 1996, 694 halaman
+33, The Little Prince, Antoine de Saint-Exupéry, 6 April 1943, 96 halaman
+34, The Name of the Wind, Patrick Rothfuss, 27 Maret 2007, 662 halaman
+35, Gone with the Wind, Margaret Mitchell, 30 Juni 1936, 1037 halaman
+36, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+37, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+38, The Old Man and the Sea, Ernest Hemingway, 1952, 128 halaman
+39, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+40, The Girl with the Dragon Tattoo, Stieg Larsson, 2005, 672 halaman
+41, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+42, The Adventures of Huckleberry Finn, Mark Twain, 10 Desember 1884, 366 halaman
+43, The Stand, Stephen King, 1978, 1153 halaman
+44, Les Misérables, Victor Hugo, 3 April 1862, 1463 halaman
+45, The Brothers Karamazov, Fyodor Dostoevsky, November 1880, 796 halaman
+46, A Wrinkle in Time, Madeleine L'Engle, 1962, 256 halaman
+47, The Canterbury Tales, Geoffrey Chaucer, Abad ke-14, 528 halaman
+48, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+49, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+50, The War of the Worlds, H.G. Wells, 1898, 288 halaman
+51, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+52, One Hundred Years of Solitude, Gabriel García Márquez, 1967, 417 halaman
+53, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+54, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+55, The Divine Comedy, Dante Alighieri, 14 September 1321, 432 halaman
+56, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+57, Crime and Punishment, Fyodor Dostoevsky, 1866, 671 halaman
+58, Anna Karenina, Leo Tolstoy, 1877, 864 halaman
+59, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+60, The Stranger, Albert Camus, 1942, 123 halaman
+61, Slaughterhouse-Five, Kurt Vonnegut, 31 Maret 1969, 275 halaman
+62, The Sun Also Rises, Ernest Hemingway, 22 Oktober 1926, 251 halaman
+63, The Girl on the Train, Paula Hawkins, 13 Januari 2015, 325 halaman
+64, The Outsiders, S.E. Hinton, 1967, 192 halaman
+65, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+66, The Book Thief, Markus Zusak, 2005, 584 halaman
+67, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+68, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+69, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+70, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+71, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+72, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+73, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+74, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+75, Lolita, Vladimir Nabokov, 1955, 336 halaman
+76, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+77, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+78, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+79, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+80, The Secret History, Donna Tartt, 1992, 559 halaman
+81, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+82, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+83, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+84, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+85, Middlemarch, George Eliot, 1871-1872, 800 halaman
+86, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+87, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+88, The Color Purple, Alice Walker, 1982, 288 halaman
+89, Beloved, Toni Morrison, 1987, 324 halaman
+90, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+91, The Martian, Andy Weir, 27 September 2012, 384 halaman
+92, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+93, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+94, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+95, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+96, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+97, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+98, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+99, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+100, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+101, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+102, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+103, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+104, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+105, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+106, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+107, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+108, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+109, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+110, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+111, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+112, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 (edisi paperback 2004)
+113, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 (edisi pertama, hardback)
+114, 1984, George Orwell, 8 Juni 1949, 328 halaman
+115, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+116, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+117, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+118, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+119, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+120, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+121, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+122, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+123, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+124, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+125, The Alchemist, Paulo Coelho, 1988, 208 halaman
+126, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+127, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+128, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+129, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+130, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+131, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+132, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+133, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+134, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+135, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+136, Little Women, Louisa May Alcott, 1868, 759 halaman
+137, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+138, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+139, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+140, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+141, The Giver, Lois Lowry, 1993, 240 halaman
+142, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+143, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+144, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+145, The Outsiders, S.E. Hinton, 1967, 192 halaman
+146, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+147, The Book Thief, Markus Zusak, 2005, 584 halaman
+148, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+149, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+150, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+151, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+152, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+153, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+154, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+155, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+156, Lolita, Vladimir Nabokov, 1955, 336 halaman
+157, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+158, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+159, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+160, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+161, The Secret History, Donna Tartt, 1992, 559 halaman
+162, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+163, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+164, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+165, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+166, Middlemarch, George Eliot, 1871-1872, 800 halaman
+167, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+168, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+169, The Color Purple, Alice Walker, 1982, 288 halaman
+170, Beloved, Toni Morrison, 1987, 324 halaman
+171, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+172, The Martian, Andy Weir, 27 September 2012, 384 halaman
+173, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+174, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+175, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+176, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+177, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+178, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+179, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+180, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+181, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+182, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+183, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+184, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+185, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+186, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+187, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+188, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+189, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+190, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+191, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+192, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+193, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+194, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+195, 1984, George Orwell, 8 Juni 1949, 328 halaman
+196, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+197, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+198, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+199, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+200, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+201, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+202, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+203, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+204, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+205, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+206, The Alchemist, Paulo Coelho, 1988, 208 halaman
+207, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+208, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+209, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+210, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+211, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+212, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+213, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+214, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+215, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+216, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+217, Little Women, Louisa May Alcott, 1868, 759 halaman
+218, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+219, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+220, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+221, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+222, The Giver, Lois Lowry, 1993, 240 halaman
+223, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+224, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+225, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+226, The Outsiders, S.E. Hinton, 1967, 192 halaman
+227, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+228, The Book Thief, Markus Zusak, 2005, 584 halaman
+229, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+230, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+231, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+232, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+233, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+234, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+235, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+236, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+237, Lolita, Vladimir Nabokov, 1955, 336 halaman
+238, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+239, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+240, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+241, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+242, The Secret History, Donna Tartt, 1992, 559 halaman
+243, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+244, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+245, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+246, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+247, Middlemarch, George Eliot, 1871-1872, 800 halaman
+248, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+249, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+250, The Color Purple, Alice Walker, 1982, 288 halaman
+251, Beloved, Toni Morrison, 1987, 324 halaman
+252, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+253, The Martian, Andy Weir, 27 September 2012, 384 halaman
+254, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+255, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+256, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+257, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+258, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+259, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+260, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+261, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+262, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+263, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+264, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+265, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+266, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+267, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+268, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+269, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+270, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+271, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+272, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+273, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+274, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+275, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+276, 1984, George Orwell, 8 Juni 1949, 328 halaman
+277, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+278, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+279, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+280, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+281, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+282, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+283, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+284, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+285, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+286, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+287, The Alchemist, Paulo Coelho, 1988, 208 halaman
+288, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+289, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+290, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+291, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+292, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+293, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+294, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+295, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+296, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+297, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+298, Little Women, Louisa May Alcott, 1868, 759 halaman
+299, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+300, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+301, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+302, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+303, The Giver, Lois Lowry, 1993, 240 halaman
+304, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+305, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+306, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+307, The Outsiders, S.E. Hinton, 1967, 192 halaman
+308, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+309, The Book Thief, Markus Zusak, 2005, 584 halaman
+310, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+311, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+312, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+313, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+314, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+315, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+316, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+317, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+318, Lolita, Vladimir Nabokov, 1955, 336 halaman
+319, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+320, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+321, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+322, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+323, The Secret History, Donna Tartt, 1992, 559 halaman
+324, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+325, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+326, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+327, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+328, Middlemarch, George Eliot, 1871-1872, 800 halaman
+329, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+330, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+331, The Color Purple, Alice Walker, 1982, 288 halaman
+332, Beloved, Toni Morrison, 1987, 324 halaman
+333, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+334, The Martian, Andy Weir, 27 September 2012, 384 halaman
+335, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+336, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+337, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+338, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+339, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+340, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+341, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+342, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+343, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+344, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+345, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+346, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+347, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+348, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+349, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+350, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+351, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+352, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+353, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+354, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+355, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+356, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+357, 1984, George Orwell, 8 Juni 1949, 328 halaman
+358, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+359, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+360, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+361, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+362, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+363, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+364, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+365, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+366, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+367, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+368, The Alchemist, Paulo Coelho, 1988, 208 halaman
+369, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+370, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+371, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+372, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+373, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+374, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+375, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+376, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+377, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+378, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+379, Little Women, Louisa May Alcott, 1868, 759 halaman
+380, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+381, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+382, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+383, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+384, The Giver, Lois Lowry, 1993, 240 halaman
+385, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+386, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+387, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+388, The Outsiders, S.E. Hinton, 1967, 192 halaman
+389, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+390, The Book Thief, Markus Zusak, 2005, 584 halaman
+391, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+392, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+393, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+394, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+395, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+396, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+397, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+398, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+399, Lolita, Vladimir Nabokov, 1955, 336 halaman
+400, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+401, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+402, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+403, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+404, The Secret History, Donna Tartt, 1992, 559 halaman
+405, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+406, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+407, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+408, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+409, Middlemarch, George Eliot, 1871-1872, 800 halaman
+410, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+411, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+412, The Color Purple, Alice Walker, 1982, 288 halaman
+413, Beloved, Toni Morrison, 1987, 324 halaman
+414, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+415, The Martian, Andy Weir, 27 September 2012, 384 halaman
+416, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+417, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+418, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+419, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+420, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+421, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+422, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+423, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+424, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+425, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+426, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+427, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+428, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+429, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+430, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+431, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+432, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+433, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+434, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+435, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+436, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+437, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+438, 1984, George Orwell, 8 Juni 1949, 328 halaman
+439, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+440, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+441, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+442, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+443, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+444, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+445, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+446, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+447, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+448, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+449, The Alchemist, Paulo Coelho, 1988, 208 halaman
+450, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+451, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+452, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+453, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+454, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+455, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+456, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+457, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+458, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+459, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+460, Little Women, Louisa May Alcott, 1868, 759 halaman
+461, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+462, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+463, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+464, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+465, The Giver, Lois Lowry, 1993, 240 halaman
+466, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+467, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+468, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+469, The Outsiders, S.E. Hinton, 1967, 192 halaman
+470, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+471, The Book Thief, Markus Zusak, 2005, 584 halaman
+472, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+473, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+474, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+475, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+476, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+477, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+478, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+479, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+480, Lolita, Vladimir Nabokov, 1955, 336 halaman
+481, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+482, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+483, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+484, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+485, The Secret History, Donna Tartt, 1992, 559 halaman
+486, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+487, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+488, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+489, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+490, Middlemarch, George Eliot, 1871-1872, 800 halaman
+491, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+492, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+493, The Color Purple, Alice Walker, 1982, 288 halaman
+494, Beloved, Toni Morrison, 1987, 324 halaman
+495, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+496, The Martian, Andy Weir, 27 September 2012, 384 halaman
+497, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+498, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+499, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+500, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+501, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+502, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+503, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+504, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+505, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+506, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+507, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+508, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+509, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+510, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+511, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+512, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+513, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+514, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+515, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+516, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+517, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+518, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+519, 1984, George Orwell, 8 Juni 1949, 328 halaman
+520, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+521, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+522, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+523, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+524, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+525, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+526, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+527, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+528, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+529, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+530, The Alchemist, Paulo Coelho, 1988, 208 halaman
+531, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+532, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+533, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+534, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+535, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+536, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+537, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+538, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+539, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+540, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+541, Little Women, Louisa May Alcott, 1868, 759 halaman
+542, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+543, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+544, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+545, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+546, The Giver, Lois Lowry, 1993, 240 halaman
+547, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+548, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+549, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+550, The Outsiders, S.E. Hinton, 1967, 192 halaman
+551, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+552, The Book Thief, Markus Zusak, 2005, 584 halaman
+553, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+554, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+555, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+556, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+557, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+558, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+559, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+560, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+561, Lolita, Vladimir Nabokov, 1955, 336 halaman
+562, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+563, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+564, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+565, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+566, The Secret History, Donna Tartt, 1992, 559 halaman
+567, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+568, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+569, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+570, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+571, Middlemarch, George Eliot, 1871-1872, 800 halaman
+572, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+573, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+574, The Color Purple, Alice Walker, 1982, 288 halaman
+575, Beloved, Toni Morrison, 1987, 324 halaman
+576, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+577, The Martian, Andy Weir, 27 September 2012, 384 halaman
+578, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+579, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+580, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+581, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+582, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+583, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+584, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+585, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+586, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+587, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+588, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+589, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+590, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+591, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+592, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+593, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+594, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+595, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+596, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+597, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+598, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+599, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+600, 1984, George Orwell, 8 Juni 1949, 328 halaman
+601, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+602, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+603, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+604, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+605, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+606, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+607, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+608, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+609, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+610, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+611, The Alchemist, Paulo Coelho, 1988, 208 halaman
+612, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+613, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+614, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+615, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+616, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+617, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+618, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+619, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+620, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+621, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+622, Little Women, Louisa May Alcott, 1868, 759 halaman
+623, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+624, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+625, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+626, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+627, The Giver, Lois Lowry, 1993, 240 halaman
+628, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+629, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+630, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+631, The Outsiders, S.E. Hinton, 1967, 192 halaman
+632, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+633, The Book Thief, Markus Zusak, 2005, 584 halaman
+634, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+635, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+636, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+637, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+638, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+639, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+640, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+641, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+642, Lolita, Vladimir Nabokov, 1955, 336 halaman
+643, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+644, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+645, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+646, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+647, The Secret History, Donna Tartt, 1992, 559 halaman
+648, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+649, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+650, The Martian, Andy Weir, 27 September 2012, 384 halaman
+651, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+652, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+653, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+654, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+655, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+656, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+657, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+658, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+659, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+660, 
+661, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+662, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+663, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+664, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+665, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+666, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+667, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+668, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+669, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+670, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+671, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+672, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+673, 1984, George Orwell, 8 Juni 1949, 328 halaman
+674, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+675, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+676, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+677, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+678, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+679, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+680, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+681, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+682, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+683, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+684, The Alchemist, Paulo Coelho, 1988, 208 halaman
+685, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+686, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+687, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+688, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+689, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+690, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+691, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+692, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+693, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+694, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+695, Little Women, Louisa May Alcott, 1868, 759 halaman
+696, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+697, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+698, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+699, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+700, The Giver, Lois Lowry, 1993, 240 halaman
+701, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+702, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+703, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+704, The Outsiders, S.E. Hinton, 1967, 192 halaman
+705, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+706, The Book Thief, Markus Zusak, 2005, 584 halaman
+707, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+708, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+709, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+710, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+711, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+712, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+713, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+714, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+715, Lolita, Vladimir Nabokov, 1955, 336 halaman
+716, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+717, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+718, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+719, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+720, The Secret History, Donna Tartt, 1992, 559 halaman
+721, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+722, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+723, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+724, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+725, Middlemarch, George Eliot, 1871-1872, 800 halaman
+726, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+727, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+728, The Color Purple, Alice Walker, 1982, 288 halaman
+729, Beloved, Toni Morrison, 1987, 324 halaman
+730, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+731, The Martian, Andy Weir, 27 September 2012, 384 halaman
+732, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+733, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+734, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+735, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+736, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+737, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+738, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+739, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+740, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+741, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+742, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+743, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+744, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+745, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+746, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+747, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+748, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+749, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+750, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+751, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+752, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+753, 1984, George Orwell, 8 Juni 1949, 328 halaman
+754, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+755, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+756, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+757, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+758, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+759, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+760, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+761, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+762, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+763, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+764, The Alchemist, Paulo Coelho, 1988, 208 halaman
+765, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+766, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+767, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+768, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+769, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+770, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+771, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+772, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+773, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+774, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+775, Little Women, Louisa May Alcott, 1868, 759 halaman
+776, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+777, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+778, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+779, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+780, The Giver, Lois Lowry, 1993, 240 halaman
+781, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+782, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+783, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+784, The Outsiders, S.E. Hinton, 1967, 192 halaman
+785, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+786, The Book Thief, Markus Zusak, 2005, 584 halaman
+787, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+788, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+789, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+790, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+791, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+792, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+793, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+794, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+795, Lolita, Vladimir Nabokov, 1955, 336 halaman
+796, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+797, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+798, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+799, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+800, The Secret History, Donna Tartt, 1992, 559 halaman
+801, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+802, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+803, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+804, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+805, Middlemarch, George Eliot, 1871-1872, 800 halaman
+806, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+807, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+808, The Color Purple, Alice Walker, 1982, 288 halaman
+809, Beloved, Toni Morrison, 1987, 324 halaman
+810, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+811, The Martian, Andy Weir, 27 September 2012, 384 halaman
+812, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+813, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+814, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+815, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+816, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+817, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+818, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+819, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+820, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+821, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+822, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+823, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+824, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+825, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+826, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+827, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+828, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+829, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+830, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+831, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+832, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+833, 1984, George Orwell, 8 Juni 1949, 328 halaman
+834, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+835, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+836, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+837, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+838, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+839, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+840, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+841, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+842, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+843, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+844, The Alchemist, Paulo Coelho, 1988, 208 halaman
+845, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+846, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+847, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+848, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+849, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+850, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+851, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+852, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+853, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+854, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+855, Little Women, Louisa May Alcott, 1868, 759 halaman
+856, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+857, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+858, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+859, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+860, The Giver, Lois Lowry, 1993, 240 halaman
+861, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+862, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+863, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+864, The Outsiders, S.E. Hinton, 1967, 192 halaman
+865, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+866, The Book Thief, Markus Zusak, 2005, 584 halaman
+867, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+868, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+869, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+870, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+871, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+872, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+873, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+874, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+875, Lolita, Vladimir Nabokov, 1955, 336 halaman
+876, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+877, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+878, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+879, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+880, The Secret History, Donna Tartt, 1992, 559 halaman
+881, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+882, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+883, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+884, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+885, Middlemarch, George Eliot, 1871-1872, 800 halaman
+886, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+887, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+888, The Color Purple, Alice Walker, 1982, 288 halaman
+889, Beloved, Toni Morrison, 1987, 324 halaman
+890, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+891, The Martian, Andy Weir, 27 September 2012, 384 halaman
+892, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+893, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+894, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+895, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+896, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+897, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+898, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+899, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+900, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+901, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+902, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+903, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+904, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+905, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+906, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+907, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+908, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+909, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+910, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+911, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+912, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+913, 1984, George Orwell, 8 Juni 1949, 328 halaman
+914, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+915, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+916, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+917, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+918, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+919, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+920, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+921, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+922, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+923, Moby-Dick, Herman Melville, 18 Oktober 1851, 720 halaman
+924, The Alchemist, Paulo Coelho, 1988, 208 halaman
+925, Jane Eyre, Charlotte Brontë, 16 Oktober 1847, 594 halaman
+926, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+927, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+928, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+929, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+930, The Kite Runner, Khaled Hosseini, 29 Mei 2003, 372 halaman
+931, Animal Farm, George Orwell, 17 Agustus 1945, 112 halaman
+932, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+933, War and Peace, Leo Tolstoy, 1869, 1225 halaman
+934, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+935, Little Women, Louisa May Alcott, 1868, 759 halaman
+936, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+937, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+938, A Tale of Two Cities, Charles Dickens, 1859, 489 halaman
+939, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+940, The Giver, Lois Lowry, 1993, 240 halaman
+941, The Fault in Our Stars, John Green, 10 Januari 2012, 313 halaman
+942, The Shining, Stephen King, 28 Januari 1977, 447 halaman
+943, The Hobbit, J.R.R. Tolkien, 21 September 1937, 310 halaman
+944, The Outsiders, S.E. Hinton, 1967, 192 halaman
+945, The Lion, the Witch and the Wardrobe, C.S. Lewis, 16 Oktober 1950, 206 halaman
+946, The Book Thief, Markus Zusak, 2005, 584 halaman
+947, The Sound and the Fury, William Faulkner, 7 Oktober 1929, 326 halaman
+948, Wuthering Heights, Emily Brontë, Desember 1847, 337 halaman
+949, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+950, The Adventures of Tom Sawyer, Mark Twain, 10 November 1876, 216 halaman
+951, Frankenstein, Mary Shelley, 1 Januari 1818, 280 halaman
+952, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+953, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+954, The Trial, Franz Kafka, 26 April 1925, 255 halaman
+955, Lolita, Vladimir Nabokov, 1955, 336 halaman
+956, Dracula, Bram Stoker, 26 Mei 1897, 418 halaman
+957, East of Eden, John Steinbeck, 19 September 1952, 601 halaman
+958, The Adventures of Sherlock Holmes, Arthur Conan Doyle, 14 Oktober 1892, 307 halaman
+959, The Iliad, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 683 halaman
+960, The Secret History, Donna Tartt, 1992, 559 halaman
+961, The Three Musketeers, Alexandre Dumas, 14 Maret 1844, 704 halaman
+962, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+963, The Scarlet Letter, Nathaniel Hawthorne, 16 Maret 1850, 238 halaman
+964, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+965, Middlemarch, George Eliot, 1871-1872, 800 halaman
+966, The Stranger Beside Me, Ann Rule, 1980, 592 halaman
+967, Fahrenheit 451, Ray Bradbury, 1953, 158 halaman
+968, The Color Purple, Alice Walker, 1982, 288 halaman
+969, Beloved, Toni Morrison, 1987, 324 halaman
+970, The Hound of the Baskervilles, Arthur Conan Doyle, 25 Maret 1902, 256 halaman
+971, The Martian, Andy Weir, 27 September 2012, 384 halaman
+972, The Time Traveler's Wife, Audrey Niffenegger, 2003, 546 halaman
+973, A Clockwork Orange, Anthony Burgess, 1962, 192 halaman
+974, The Bell Jar, Sylvia Plath, 14 Januari 1963, 244 halaman
+975, The Raven, Edgar Allan Poe, 29 Januari 1845, 72 halaman
+976, The Silmarillion, J.R.R. Tolkien, 15 September 1977, 365 halaman
+977, The Handmaid's Tale, Margaret Atwood, 1985, 311 halaman
+978, The Da Vinci Code, Dan Brown, 18 Maret 2003, 454 halaman
+979, The Secret Garden, Frances Hodgson Burnett, 1911, 331 halaman
+980, The Jungle Book, Rudyard Kipling, 1894, 240 halaman
+981, The Picture of Dorian Gray, Oscar Wilde, 20 Juni 1890, 254 halaman
+982, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+983, The Metamorphosis, Franz Kafka, 1915, 55 halaman
+984, Don Quixote, Miguel de Cervantes, 1605, 863 halaman
+985, Alice's Adventures in Wonderland, Lewis Carroll, 4 Juli 1865, 200 halaman
+986, The Odyssey, Homer, Tidak diketahui (ditulis sekitar abad ke-8 SM), 324 halaman (edisi terjemahan Inggris)
+987, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
+988, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+989, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+990, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
+991, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 halaman (edisi paperback 2004)
+992, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 halaman (edisi pertama, hardback)
+993, 1984, George Orwell, 8 Juni 1949, 328 halaman
+994, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
+995, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
+996, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)
+997, To the Lighthouse, Virginia Woolf, 5 Mei 1927, 209 halaman
+998, The Hunger Games, Suzanne Collins, 14 September 2008, 374 halaman
+999, Brave New World, Aldous Huxley, 17 Juli 1932, 288 halaman
+1000, The Chronicles of Narnia, C.S. Lewis, 16 Oktober 1950 - 4 September 1956, 766 halaman (tujuh buku dalam satu volume)
