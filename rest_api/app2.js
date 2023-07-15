@@ -1,5 +1,6 @@
 const express = require('express');
 const csv = require('csv-parser');
+const cors = require('cors');
 const fs = require('fs');
 const app = express();
 
@@ -57,6 +58,8 @@ app.delete('/books/:id', (req, res) => {
   }
 });
 
-app.listen(3000, () => {
-  console.log('Server berjalan pada port 3000');
+const port = 3000; // Port yang ingin Anda gunakan
+
+app.listen(port, () => {
+  console.log(`Server berjalan pada port ${port}`);
 });

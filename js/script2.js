@@ -1,8 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   const bookList = document.getElementById('bookList');
 
-  // fetch('http://localhost:8080/books')
-  fetch('https://taufiqalif.github.io/rest-api-books/books')
+  fetch('http://localhost:3000/books')
     .then(response => response.json())
     .then(data => {
       console.log('Received data:', data);
@@ -11,14 +10,16 @@ document.addEventListener('DOMContentLoaded', () => {
         data.forEach((book, index) => {
           console.log('Current book:', book);
           
-          const { id, title, author, year, page } = book;
+          const { id, title, author,publisher, year, page,BookContents } = book;
           const row = document.createElement('tr');
           row.innerHTML = `
             <td>${index + 1}</td>
             <td>${title}</td>
             <td>${author}</td>
+            <td>${publisher}</td>
             <td>${year}</td>
             <td>${page}</td>
+            <td>${BookContents}</td>
           `;
           bookList.appendChild(row);
         });

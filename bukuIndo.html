@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="js/script2.js"></script>
+  <style>
+    /* CSS untuk tampilan tabel */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    
+    table th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+<h1>Daftar Data Buku Indonesia</h1>
+
+  <!-- kotak pencarian -->
+  <main>
+    <div class="search">
+      <input type="text" id="searchInput" placeholder="Cari...">
+      <button onclick="search()">Cari</button>
+    </div> 
+
+    <!-- menampilkan hasil pencarian -->
+    <table id="bookTable">
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Title</th>
+          <th>Author</th>
+          <th>Publisher</th>
+          <th>Year</th>
+          <th>Page</th>
+          <th>Book Contents</th>
+        </tr>
+      </thead>
+      <tbody id="bookList"></tbody>
+    </table>
+    <!-- akhir menampilkan hasil pencarian -->
+  </main>
+  <!-- akhir kotak pencarian -->
+</body>
+</html>
