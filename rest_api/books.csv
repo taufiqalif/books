@@ -1,8 +1,8 @@
-id, title, author, year, page
-1, Harry Potter and the Philosopher's Stone, J.K. Rowling, September 2000 - Januari 2008, 5248 halaman
-2, The Great Gatsby, F. Scott Fitzgerald, 10 April 1925, 180 (edisi paperback 2004)
-3, To Kill a Mockingbird, Harper Lee, 11 Juli 1960, 296 (edisi pertama, hardback)
-4, 1984, George Orwell, 8 Juni 1949, 328 halaman
+id,title,author,year,page
+1,Harry Potter and the Philosopher's Stone,J.K. Rowling, September 2000 - Januari 2008,5248 halaman
+2,The Great Gatsby,F. Scott Fitzgerald,10 April 1925,180 (edisi paperback 2004)
+3,To Kill a Mockingbird,Harper Lee,11 Juli 1960,296 (edisi pertama, hardback)
+4,1984, George Orwell,8 Juni 1949,328 halaman
 5, Pride and Prejudice, Jane Austen, 28 Januari 1813, 432 halaman
 6, The Catcher in the Rye, J.D. Salinger, 16 Juli 1951, 224 halaman
 7, The Lord of the Rings, J.R.R. Tolkien, 29 Juli 1954 - 20 Oktober 1955, 1178 halaman (trilogi dalam satu volume)

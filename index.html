@@ -27,28 +27,26 @@
 <body>
   <!-- kotak pencarian -->
   <main>
-    <!-- menampilkan hasil pencarian -->
-    <div id="searchResults"></div>
-    <!-- akhir menampilkan hasil pencarian -->
     <div class="search">
       <input type="text" id="searchInput" placeholder="Cari...">
-      <label for="searchByTitle">Cari berdasarkan judul</label>
-      <input type="checkbox" id="searchByTitle">
       <button onclick="search()">Cari</button>
-    </div>    
+    </div> 
+
+    <!-- menampilkan hasil pencarian -->
+    <table id="bookTable">
+      <thead>
+        <tr>
+          <th>No</th>
+          <th>Title</th>
+          <th>Author</th>
+          <th>Year</th>
+          <th>Page</th>
+        </tr>
+      </thead>
+      <tbody id="bookList"></tbody>
+    </table>
+    <!-- akhir menampilkan hasil pencarian -->
   </main>
   <!-- akhir kotak pencarian -->
-
-  <!-- menampilkan data yang berhasil di cari user -->
-  <table id="bookTable">
-    <tr>
-      <th>No</th>
-      <th>Title</th>
-      <th>Author</th>
-      <th>Year</th>
-      <th>Page</th>
-    </tr>
-  </table>
-  <!-- akhir menampilkan data yang berhasil di cari user  -->
 </body>
 </html>
