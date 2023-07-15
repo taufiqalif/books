@@ -9,3 +9,6 @@ https://nodejs.org/en
 `node app.js`
 
 `http://localhost:8080/books/`
+
+data:
+https://taufiqalif.github.io/rest-api-books/
