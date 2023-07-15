@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
   const bookList = document.getElementById('bookList');
 
-  // fetch('http://localhost:8080/books')
-  fetch('https://taufiqalif.github.io/rest-api-books/books')
+  fetch('http://localhost:8080/books')
+  // fetch('https://taufiqalif.github.io/rest-api-books/books')
     .then(response => response.json())
     .then(data => {
       console.log('Received data:', data);
